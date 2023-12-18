@@ -3,6 +3,22 @@
 
 # <p align="center" style="">Hi 👋, I'm ChuXiao</p>
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/zhChuXiao" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>&nbsp;
+<a href="mailto:zh.chuxiao@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>&nbsp;
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>&nbsp;
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D alt=github style="margin-bottom: 5px;" />
+</a>&nbsp;
+</div>  
+
 ## Language And Tools
 <table><tr><td valign="top" width="100%">
 <div >  
@@ -25,9 +41,12 @@
 </div>
 </td></tr></table>  
 
+---
+<br />
 <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhChuXiao&hide=html&theme=radical"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhChuXiao&hide=html&theme=dark"
       />
+<br />
 
 ---
 <br/>
@@ -41,7 +60,7 @@
 <img style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zhChuXiao&theme=radical" width="45%" alt="savuer's github readme streak stats"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhChuXiao&theme=github-compact" />
+
 
 
 
