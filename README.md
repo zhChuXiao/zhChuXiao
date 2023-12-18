@@ -5,23 +5,23 @@
 
 ## Language And Tools
 <table><tr><td valign="top" width="100%">
-<div align="center">  
-      <code><img style="margin: 10" src="./images/html.svg" width="40" height="40" alt="html" /></code>
-      <code><img style="margin: 10" src="./images/css.svg" width="40" height="40" alt="css" /></code>
-      <code><img style="margin: 10" src="./images/javascript.svg" width="40" height="40" alt="javascript" /></code>
-      <code><img style="margin: 10" src="./images/typescript.svg" width="40" height="40" alt="typescript" /></code>
-      <code><img style="margin: 10" src="./images/sass.svg" width="40" height="40" alt="sass" /></code>
-      <code><img style="margin: 10" src="./images/vuejs.svg" width="40" height="40" alt="vue" /></code>
-      <code><img style="margin: 10" src="./images/angularjs.svg" width="40" height="40" alt="angular" /></code>
-      <code><img style="margin: 10" src="./images/nodejs.svg" width="40" height="40" alt="node" /></code>
-      <code><img style="margin: 10" src="./images/nginx.svg" width="40" height="40" alt="nginx" /></code>
-      <code><img style="margin: 10" src="./images/linux.svg" width="40" height="40" alt="linux" /></code>
-      <code><img style="margin: 10" src="./images/mysql.svg" width="40" height="40" alt="mysql" /></code>
-      <code><img style="margin: 10" src="./images/reactjs.svg" width="40" height="40" alt="react" /></code>
-      <code><img style="margin: 10" src="./images/webpack.svg" width="40" height="40" alt="webpack" /></code>
-      <code><img style="margin: 10" src="./images/postman.svg" width="40" height="40" alt="postman" /></code>
-      <code><img style="margin: 10" src="./images/github.svg" width="40" height="40" alt="github" /></code>
-      <code><img style="margin: 10" src="./images/git.svg" width="40" height="40" alt="git" /></code>
+<div >  
+      <code><img src="./images/html.svg" width="40" height="40" alt="html" /></code>&emsp;&emsp;
+      <code><img src="./images/css.svg" width="40" height="40" alt="css" /></code>&emsp;&emsp;
+      <code><img src="./images/javascript.svg" width="40" height="40" alt="javascript" /></code>&emsp;&emsp;
+      <code><img src="./images/typescript.svg" width="40" height="40" alt="typescript" /></code>&emsp;&emsp;
+      <code><img src="./images/sass.svg" width="40" height="40" alt="sass" /></code>&emsp;&emsp;
+      <code><img src="./images/vuejs.svg" width="40" height="40" alt="vue" /></code>&emsp;&emsp;
+      <code><img src="./images/angularjs.svg" width="40" height="40" alt="angular" /></code>&emsp;&emsp;
+      <code><img src="./images/nodejs.svg" width="40" height="40" alt="node" /></code>&emsp;&emsp;
+      <code><img src="./images/nginx.svg" width="40" height="40" alt="nginx" /></code>&emsp;&emsp;
+      <code><img src="./images/linux.svg" width="40" height="40" alt="linux" /></code>&emsp;&emsp;
+      <code><img src="./images/mysql.svg" width="40" height="40" alt="mysql" /></code>&emsp;&emsp;
+      <code><img src="./images/reactjs.svg" width="40" height="40" alt="react" /></code>&emsp;&emsp;
+      <code><img src="./images/webpack.svg" width="40" height="40" alt="webpack" /></code>&emsp;&emsp;
+      <code><img src="./images/postman.svg" width="40" height="40" alt="postman" /></code>&emsp;&emsp;
+      <code><img src="./images/github.svg" width="40" height="40" alt="github" /></code>&emsp;&emsp;
+      <code><img src="./images/git.svg" width="40" height="40" alt="git" /></code>&emsp;&emsp;
 </div>
 </td></tr></table>  
 
