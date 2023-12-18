@@ -22,6 +22,7 @@
 ## Language And Tools
 <table><tr><td valign="top" width="100%">
 <div >  
+<br />
       <code><img src="./images/html.svg" width="40" height="40" alt="html" /></code>&emsp;&emsp;
       <code><img src="./images/css.svg" width="40" height="40" alt="css" /></code>&emsp;&emsp;
       <code><img src="./images/javascript.svg" width="40" height="40" alt="javascript" /></code>&emsp;&emsp;
@@ -38,6 +39,7 @@
       <code><img src="./images/postman.svg" width="40" height="40" alt="postman" /></code>&emsp;&emsp;
       <code><img src="./images/github.svg" width="40" height="40" alt="github" /></code>&emsp;&emsp;
       <code><img src="./images/git.svg" width="40" height="40" alt="git" /></code>&emsp;&emsp;
+      <br />
 </div>
 </td></tr></table>  
 
