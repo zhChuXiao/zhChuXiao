@@ -13,7 +13,7 @@
     </td>
     <td style="display: flex; flex-direction: column">
     <b style="font-size: 30px">Languages and Tools</b>
-    <td style="display: grid; grid-gap: 20px; grid-template-columns: repeat(8, 1fr)">
+    <p style="display: grid; grid-gap: 20px; grid-template-columns: repeat(8, 1fr)">
       <img src="./images/html.svg" width="40" height="40" alt="html" />
       <img src="./images/css.svg" width="40" height="40" alt="css" />
       <img src="./images/javascript.svg" width="40" height="40" alt="javascript" />
@@ -30,7 +30,7 @@
       <img src="./images/postman.svg" width="40" height="40" alt="postman" />
       <img src="./images/github.svg" width="40" height="40" alt="github" />
       <img src="./images/git.svg" width="40" height="40" alt="git" />
-    </td>
+    </p>
     </td>
   </tr>
 </table>
