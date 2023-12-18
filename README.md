@@ -12,7 +12,7 @@
       />
     </td>
     <td style="display: flex; flex-direction: column">
-    <b style="font-size: 30px">Languages and Tools</b>
+    <font size=5>**Languages and Tools**</font>
     <p style="display: grid; grid-gap: 20px; grid-template-columns: repeat(8, 1fr)">
       <img src="./images/html.svg" width="40" height="40" alt="html" />
       <img src="./images/css.svg" width="40" height="40" alt="css" />
@@ -39,22 +39,21 @@
 ---
 <br/>
 <p align="center">
-<img style="width: 500px" src="https://github-readme-stats.vercel.app/api?username=zhChuXiao&theme=dark&show_icons=true" />
+<img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=zhChuXiao&theme=dark&show_icons=true" />
 </p>
 
 ---
 <br/>
 <p align="center">
-<img style="width: 500px" src="https://github-readme-streak-stats.herokuapp.com/?user=zhChuXiao&theme=highcontrast" width="45%" alt="savuer's github readme streak stats"/>
+<img style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zhChuXiao&theme=highcontrast" width="45%" alt="savuer's github readme streak stats"/>
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhChuXiao&theme=github-compact" />
 
 
 
-> ### How to reach me
->
-> ---
+> ## How to reach me
+
 
 
 <table>
