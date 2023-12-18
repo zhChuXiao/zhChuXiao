@@ -3,50 +3,47 @@
 
 ## <p align="center" style="">Hi 👋, I'm ChuXiao</p>
 
-<table>
-  <tr>
-    <td >
-      <img
+<img
         style="margin-right: 30px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhChuXiao&hide=html&theme=dark"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhChuXiao&hide=html&theme=radical"
       />
-    </td>
-    <td style="display: flex; flex-direction: column">
-    <b>Language And Tools : </b>
-    <br/>
-    <p style="display: grid; grid-gap: 20px; grid-template-columns: repeat(8, 1fr)">
-      <img src="./images/html.svg" width="40" height="40" alt="html" />
-      <img src="./images/css.svg" width="40" height="40" alt="css" />
-      <img src="./images/javascript.svg" width="40" height="40" alt="javascript" />
-      <img src="./images/typescript.svg" width="40" height="40" alt="typescript" />
-      <img src="./images/sass.svg" width="40" height="40" alt="sass" />
-      <img src="./images/vuejs.svg" width="40" height="40" alt="vue" />
-      <img src="./images/angularjs.svg" width="40" height="40" alt="angular" />
-      <img src="./images/nodejs.svg" width="40" height="40" alt="node" />
-      <img src="./images/nginx.svg" width="40" height="40" alt="nginx" />
-      <img src="./images/linux.svg" width="40" height="40" alt="linux" />
-      <img src="./images/mysql.svg" width="40" height="40" alt="mysql" />
-      <img src="./images/reactjs.svg" width="40" height="40" alt="react" />
-      <img src="./images/webpack.svg" width="40" height="40" alt="webpack" />
-      <img src="./images/postman.svg" width="40" height="40" alt="postman" />
-      <img src="./images/github.svg" width="40" height="40" alt="github" />
-      <img src="./images/git.svg" width="40" height="40" alt="git" />
-    </p>
-    </td>
-  </tr>
-</table>
+
+## Language And Tools
+<table><tr><td valign="top" width="33%">
+<div align="center">  
+      <img style="margin: 10" src="./images/html.svg" width="40" height="40" alt="html" />
+      <img style="margin: 10" src="./images/css.svg" width="40" height="40" alt="css" />
+      <img style="margin: 10" src="./images/javascript.svg" width="40" height="40" alt="javascript" />
+      <img style="margin: 10" src="./images/typescript.svg" width="40" height="40" alt="typescript" />
+      <img style="margin: 10" src="./images/sass.svg" width="40" height="40" alt="sass" />
+      <img style="margin: 10" src="./images/vuejs.svg" width="40" height="40" alt="vue" />
+      <img style="margin: 10" src="./images/angularjs.svg" width="40" height="40" alt="angular" />
+      <img style="margin: 10" src="./images/nodejs.svg" width="40" height="40" alt="node" />
+      <img style="margin: 10" src="./images/nginx.svg" width="40" height="40" alt="nginx" />
+      <img style="margin: 10" src="./images/linux.svg" width="40" height="40" alt="linux" />
+      <img style="margin: 10" src="./images/mysql.svg" width="40" height="40" alt="mysql" />
+      <img style="margin: 10" src="./images/reactjs.svg" width="40" height="40" alt="react" />
+      <img style="margin: 10" src="./images/webpack.svg" width="40" height="40" alt="webpack" />
+      <img style="margin: 10" src="./images/postman.svg" width="40" height="40" alt="postman" />
+      <img style="margin: 10" src="./images/github.svg" width="40" height="40" alt="github" />
+      <img style="margin: 10" src="./images/git.svg" width="40" height="40" alt="git" />
+</div>
+
+
+
+</td></tr></table>  
 
 
 ---
 <br/>
 <p align="center">
-<img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=zhChuXiao&theme=dark&show_icons=true" />
+<img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=zhChuXiao&theme=radical&show_icons=true" />
 </p>
 
 ---
 <br/>
 <p align="center">
-<img style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zhChuXiao&theme=highcontrast" width="45%" alt="savuer's github readme streak stats"/>
+<img style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zhChuXiao&theme=radical" width="45%" alt="savuer's github readme streak stats"/>
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhChuXiao&theme=github-compact" />
