@@ -12,7 +12,8 @@
       />
     </td>
     <td style="display: flex; flex-direction: column">
-    <font size=5>**Languages and Tools**</font>
+    <b>Language And Tools : </b>
+    <br/>
     <p style="display: grid; grid-gap: 20px; grid-template-columns: repeat(8, 1fr)">
       <img src="./images/html.svg" width="40" height="40" alt="html" />
       <img src="./images/css.svg" width="40" height="40" alt="css" />
