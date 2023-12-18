@@ -1,38 +1,33 @@
 
 
 
-## <p align="center" style="">Hi 👋, I'm ChuXiao</p>
-
-<img
-        style="margin-right: 30px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhChuXiao&hide=html&theme=radical"
-      />
+# <p align="center" style="">Hi 👋, I'm ChuXiao</p>
 
 ## Language And Tools
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
 <div align="center">  
-      <img style="margin: 10" src="./images/html.svg" width="40" height="40" alt="html" />
-      <img style="margin: 10" src="./images/css.svg" width="40" height="40" alt="css" />
-      <img style="margin: 10" src="./images/javascript.svg" width="40" height="40" alt="javascript" />
-      <img style="margin: 10" src="./images/typescript.svg" width="40" height="40" alt="typescript" />
-      <img style="margin: 10" src="./images/sass.svg" width="40" height="40" alt="sass" />
-      <img style="margin: 10" src="./images/vuejs.svg" width="40" height="40" alt="vue" />
-      <img style="margin: 10" src="./images/angularjs.svg" width="40" height="40" alt="angular" />
-      <img style="margin: 10" src="./images/nodejs.svg" width="40" height="40" alt="node" />
-      <img style="margin: 10" src="./images/nginx.svg" width="40" height="40" alt="nginx" />
-      <img style="margin: 10" src="./images/linux.svg" width="40" height="40" alt="linux" />
-      <img style="margin: 10" src="./images/mysql.svg" width="40" height="40" alt="mysql" />
-      <img style="margin: 10" src="./images/reactjs.svg" width="40" height="40" alt="react" />
-      <img style="margin: 10" src="./images/webpack.svg" width="40" height="40" alt="webpack" />
-      <img style="margin: 10" src="./images/postman.svg" width="40" height="40" alt="postman" />
-      <img style="margin: 10" src="./images/github.svg" width="40" height="40" alt="github" />
-      <img style="margin: 10" src="./images/git.svg" width="40" height="40" alt="git" />
+      <code><img style="margin: 10" src="./images/html.svg" width="40" height="40" alt="html" /></code>
+      <code><img style="margin: 10" src="./images/css.svg" width="40" height="40" alt="css" /></code>
+      <code><img style="margin: 10" src="./images/javascript.svg" width="40" height="40" alt="javascript" /></code>
+      <code><img style="margin: 10" src="./images/typescript.svg" width="40" height="40" alt="typescript" /></code>
+      <code><img style="margin: 10" src="./images/sass.svg" width="40" height="40" alt="sass" /></code>
+      <code><img style="margin: 10" src="./images/vuejs.svg" width="40" height="40" alt="vue" /></code>
+      <code><img style="margin: 10" src="./images/angularjs.svg" width="40" height="40" alt="angular" /></code>
+      <code><img style="margin: 10" src="./images/nodejs.svg" width="40" height="40" alt="node" /></code>
+      <code><img style="margin: 10" src="./images/nginx.svg" width="40" height="40" alt="nginx" /></code>
+      <code><img style="margin: 10" src="./images/linux.svg" width="40" height="40" alt="linux" /></code>
+      <code><img style="margin: 10" src="./images/mysql.svg" width="40" height="40" alt="mysql" /></code>
+      <code><img style="margin: 10" src="./images/reactjs.svg" width="40" height="40" alt="react" /></code>
+      <code><img style="margin: 10" src="./images/webpack.svg" width="40" height="40" alt="webpack" /></code>
+      <code><img style="margin: 10" src="./images/postman.svg" width="40" height="40" alt="postman" /></code>
+      <code><img style="margin: 10" src="./images/github.svg" width="40" height="40" alt="github" /></code>
+      <code><img style="margin: 10" src="./images/git.svg" width="40" height="40" alt="git" /></code>
 </div>
-
-
-
 </td></tr></table>  
 
+<img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhChuXiao&hide=html&theme=radical"
+      />
 
 ---
 <br/>
