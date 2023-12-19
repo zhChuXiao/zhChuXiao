@@ -1,9 +1,18 @@
 
 
+<img src="./images/hello-im-chuxiao.svg" />
 
-# <p align="center" style="">Hi 👋, I'm ChuXiao</p>
 
-## Connect with me  
+  # <p style="">Hey I'm 初晓 👋</p>
+
+
+- 🎸 Play guitar to relax after work
+- 🏸 Good at ball games, especially badminton
+- 🚴 Enjoy running, 
+<!-- here is [my Sports Record]()  -->
+
+--- 
+
 <div align="center">
 <a href="https://github.com/zhChuXiao" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
