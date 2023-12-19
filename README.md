@@ -54,23 +54,19 @@
 </div>
 </td></tr></table>  
 
----
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhChuXiao&theme=react" />
 
 ---
 <br/>
 <p align="center">
-<img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=zhChuXiao&theme=radical&show_icons=true" />
+<img style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zhChuXiao&theme=react" width="45%" alt="savuer's github readme streak stats"/>
 </p>
 
 ---
 <br/>
 <p align="center">
-<img style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zhChuXiao&theme=radical" width="45%" alt="savuer's github readme streak stats"/>
+<img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=zhChuXiao&theme=react&show_icons=true" />
 </p>
-
-
-
 
 
 > ## How to reach me
