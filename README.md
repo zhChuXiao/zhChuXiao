@@ -54,7 +54,7 @@
 </div>
 </td></tr></table>  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhChuXiao&theme=react" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhChuXiao&theme=react-dark" />
 
 ---
 <br/>
