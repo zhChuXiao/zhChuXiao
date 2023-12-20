@@ -85,7 +85,7 @@
         <td><a href="https://juejin.cn/user/4482042080793048" target="_blank">掘金: 初晓</a></td>
         <td><a href="https://www.npmjs.com/~zcxiao_" target="_blank">NPM: 初晓</a></td>
         <td><a href="https://github.com/zhChuXiao" target="_blank">GitHub: 初晓</a></td>
-        <td><a href="https://github.com/zhChuXiao" target="_blank">CSDN: 初晓</a></td>
+        <td><a href="https://blog.csdn.net/a143730?type=bbs" target="_blank">CSDN: 初晓</a></td>
 
     </tr>
 </table>
