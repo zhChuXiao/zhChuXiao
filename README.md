@@ -1,6 +1,6 @@
 
 
-<img src="./images/hello-im-chuxiao.svg" />
+<img src="./images/hi-im-chuxiao.svg" />
 
 
   ## Hey I'm 初晓 👋
