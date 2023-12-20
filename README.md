@@ -6,7 +6,7 @@
   ## Hey I'm 初晓 👋
 > 一只正在努力的前端仔，要加油啊 *Web front-end developers*
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhChuXiao&hide=html&theme=react&layout=compact" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 10px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhChuXiao&hide=html&theme=onedark&layout=compact" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 10px;" />
 
 
 - 🎸 Play guitar to relax after work
