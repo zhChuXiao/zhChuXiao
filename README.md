@@ -78,11 +78,14 @@
         <td><img src="./images/juejinlogo.svg" width="60" height="60" alt="juejinlogo" /></td>
         <td><img src="./images/npm.svg" width="60" height="60" alt="npmlogo" /></td>
         <td><img src="./images/github.svg" width="40" height="60" alt="npmlogo" /></td>
+        <td><img src="./images/csdn.svg" width="40" height="60" alt="npmlogo" /></td>
         <!-- <td rowspan="2"><img src="./images/wx.png" width="310" height="120" alt="wechat" /></td> -->
     </tr>
     <tr>
         <td><a href="https://juejin.cn/user/4482042080793048" target="_blank">掘金: 初晓</a></td>
         <td><a href="https://www.npmjs.com/~zcxiao_" target="_blank">NPM: 初晓</a></td>
         <td><a href="https://github.com/zhChuXiao" target="_blank">GitHub: 初晓</a></td>
+        <td><a href="https://github.com/zhChuXiao" target="_blank">CSDN: 初晓</a></td>
+
     </tr>
 </table>
