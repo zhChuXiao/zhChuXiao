@@ -4,7 +4,7 @@
 <img align='right' src="https://i.pinimg.com/originals/15/26/5a/15265af91d058d33da9d448a7cd070f9.gif" width="300"/>
 
 
-<h1><img src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif" width="150"/> 🌷 Hey I'm 初晓! 🌷 <img src="https://64.media.tumblr.com/tumblr_ma9e64eCeq1rfjowdo1_500.gif" width="160"></h1>
+<h1><img src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif" width="130"/> 🌷 Hi I'm 初晓! 🌷 <img src="https://64.media.tumblr.com/tumblr_ma9e64eCeq1rfjowdo1_500.gif" width="140"></h1>
 
 > 一只正在努力的前端仔，要加油啊 *Web front-end developers*
 ```javascript
