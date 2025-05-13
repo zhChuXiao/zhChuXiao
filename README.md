@@ -94,7 +94,9 @@
         <td><a href="https://blog.csdn.net/a143730?type=bbs" target="_blank">CSDN: 初晓</a></td>
     </tr>
 </table>
-
+<a href="https://blog.ninc.top">
+      <img width="250" src="https://img.shields.io/badge/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2-FF5722?style=social&logo=data:image/svg+xml;base64,PHN2ZyB0PSIxNzQ3MTIxMzA4NzI4IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjI2OTIiIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIj48cGF0aCBkPSJNMzg0IDY0YzAgMzUuNCAyOC42IDY0IDY0IDY0IDI0Ny40IDAgNDQ4IDIwMC42IDQ0OCA0NDggMCAzNS40IDI4LjYgNjQgNjQgNjRzNjQtMjguNiA2NC02NEMxMDI0IDI1Ny44IDc2Ni4yIDAgNDQ4IDBjLTM1LjQgMC02NCAyOC42LTY0IDY0eiBtMCAxOTJjMCAzNS40IDI4LjYgNjQgNjQgNjQgMTQxLjQgMCAyNTYgMTE0LjYgMjU2IDI1NiAwIDM1LjQgMjguNiA2NCA2NCA2NHM2NC0yOC42IDY0LTY0YzAtMjEyLTE3Mi0zODQtMzg0LTM4NC0zNS40IDAtNjQgMjguNi02NCA2NHogbS0xOTIgMzJjMC01My00My05Ni05Ni05NlMwIDIzNSAwIDI4OHY0NDhjMCAxNTkgMTI5IDI4OCAyODggMjg4czI4OC0xMjkgMjg4LTI4OC0xMjktMjg4LTI4OC0yODhoLTMydjE5MmgzMmM1MyAwIDk2IDQzIDk2IDk2cy00MyA5Ni05NiA5Ni05Ni00My05Ni05NlYyODh6IiBwLWlkPSIyNjkzIiBmaWxsPSIjMTI5NmRiIj48L3BhdGg+PC9zdmc+" />
+</a>
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhChuXiao&theme=bear" alt="logo" height="160" style="margin: 5px; margin-bottom: 10px;" />-->
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhChuXiao&hide=html&theme=onedark&layout=compact" alt="logo" height="160" style="margin: 5px; margin-bottom: 10px;" /> -->
 
