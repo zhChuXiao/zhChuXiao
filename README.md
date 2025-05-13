@@ -1,17 +1,20 @@
 
-
 <img src="./images/hi-im-chuxiao.svg" />
+<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="700"/>
+<img align='right' src="https://i.pinimg.com/originals/15/26/5a/15265af91d058d33da9d448a7cd070f9.gif" width="300"/>
 
 
-  ## Hey I'm 初晓 👋
+<h1><img src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif" width="150"/> 🌷 Hey I'm 初晓! 🌷 <img src="https://64.media.tumblr.com/tumblr_ma9e64eCeq1rfjowdo1_500.gif" width="160"></h1>
+
 > 一只正在努力的前端仔，要加油啊 *Web front-end developers*
+```javascript
+🌻 My name is Chuxiao!
+🌱 I live in China Qingdao.
+🍃 I’m Web Developer.
+🌼 I love games, animes, arts and technology.
+```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhChuXiao&hide=html&theme=onedark&layout=compact" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 10px;" />
 
-
-- 🎸 Play guitar to relax after work
-- 🏸 Good at ball games, especially badminton
-- 🚴 Enjoy running, 
 <!-- here is [my Sports Record]()  -->
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
@@ -23,12 +26,15 @@
 ![React](https://img.shields.io/badge/React-489dc6?style=flat-square&logo=React&logoColor=ffffff)
 ![MiniProgram](https://img.shields.io/badge/MiniProgram-58bd6b?style=flat-square&logo=wechat&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=ffffff)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=ffffff) 
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=ffffff) 
 [![Linux](https://img.shields.io/badge/-Linux-141320?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![mySQL](https://img.shields.io/badge/mySQL-31748c?style=flat-square&logo=mysql&logoColor=ffffff)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![SVN](https://img.shields.io/badge/-SVN-859cc5?style=flat-square&logo=Subversion&logoColor=white)](https://git-scm.com/)
+
 --- 
 
 ## Language And Tools
@@ -71,20 +77,24 @@
 
 > ## How to reach me
 
-
+<img align='right' src="https://66.media.tumblr.com/tumblr_ma9e5cpbY11rfjowdo1_500.gif" width="400" />
 
 <table>
     <tr align="center">
         <td><img src="./images/juejinlogo.svg" width="60" height="60" alt="juejinlogo" /></td>
-<!--         <td><img src="./images/npm.svg" width="60" height="60" alt="npmlogo" /></td> -->
+        <td><img src="./images/npm.svg" width="60" height="60" alt="npmlogo" /></td>
         <td><img src="./images/github.svg" width="40" height="60" alt="npmlogo" /></td>
         <td><img src="./images/csdn.svg" width="40" height="60" alt="npmlogo" /></td>
-        <!-- <td rowspan="2"><img src="./images/wx.png" width="310" height="120" alt="wechat" /></td> -->
+<!--         <td rowspan="2"><img src="./images/wx.png" width="310" height="120" alt="wechat" /></td> -->
     </tr>
     <tr>
         <td><a href="https://juejin.cn/user/4482042080793048" target="_blank">掘金: 初晓</a></td>
-<!--         <td><a href="https://www.npmjs.com/~zcxiao_" target="_blank">NPM: 初晓</a></td> -->
+        <td><a href="https://www.npmjs.com/~zcxiao_" target="_blank">NPM: 初晓</a></td>
         <td><a href="https://github.com/zhChuXiao" target="_blank">GitHub: 初晓</a></td>
         <td><a href="https://blog.csdn.net/a143730?type=bbs" target="_blank">CSDN: 初晓</a></td>
     </tr>
 </table>
+
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhChuXiao&theme=bear" alt="logo" height="160" style="margin: 5px; margin-bottom: 10px;" />-->
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhChuXiao&hide=html&theme=onedark&layout=compact" alt="logo" height="160" style="margin: 5px; margin-bottom: 10px;" /> -->
+
